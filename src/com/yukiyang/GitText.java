@@ -5,5 +5,6 @@ public class GitText {
         System.out.println("nihao");
         System.out.println("??");
         System.out.println("??");
+        System.out.println("21");
     }
 }
